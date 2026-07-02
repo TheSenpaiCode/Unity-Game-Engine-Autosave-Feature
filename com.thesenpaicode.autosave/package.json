@@ -1,0 +1,10 @@
+{
+  "name": "com.thesenpaicode.autosave",
+  "displayName": "Auto Save",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Automatically saves your Unity project before entering Play Mode.",
+  "author": {
+    "name": "TheSenpaiCode"
+  }
+}
